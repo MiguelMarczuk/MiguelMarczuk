@@ -2,8 +2,8 @@
 
 💻 Desenvolvedor de Software  
 📍 Brasil  
-📧 Contato: [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:miguelnicolau95@gmail.com) 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/miguelmarczuk)
+📧 Contato: [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:miguelnicolau95@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/miguelmarczuk)
 
 ---
 
