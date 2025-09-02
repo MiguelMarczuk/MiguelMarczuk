@@ -33,10 +33,5 @@
 
 
 
-## 🚀 Contribuições
-![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=miguelmarczuk&theme=radical)
-
----
-
 
 
