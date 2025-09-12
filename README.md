@@ -26,8 +26,7 @@
 ## 📊 Estatísticas do GitHub
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=miguelmarczuk&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miguelmarczuk&layout=compact&theme=radical)
-## ⚡ Linguagem Principal
-![Java](https://img.shields.io/badge/Java-100%25-blue?style=flat&logo=java&logoColor=white)
+
 
 
 ---
